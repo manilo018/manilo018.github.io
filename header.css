@@ -1,0 +1,13 @@
+.header{
+    background-color: chocolate;
+    display: flex;
+    width: 100%;
+}
+.header__menu{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+.header__logo{
+    width: 20%;
+}
